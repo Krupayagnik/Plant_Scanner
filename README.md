@@ -1,2 +1,2 @@
 # Plant_Scanner
-an Testing of app which helps to understand the agriculture mode by just scanning them.
+An innovative application designed for testing, enabling users to easily gain insights into agricultural practices and methods by simply scanning crops, plants, or environments for accurate information and understandi
